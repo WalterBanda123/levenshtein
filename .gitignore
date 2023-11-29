@@ -1,0 +1,9 @@
+node_modules/
+replaced_names.json
+response_fuzzed_names.json
+response_fuzzed_sample.json
+response_fuzzed_second.json
+response_names
+response.json
+sample_response.json
+uniques_names.json
